@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, System Administrator, Cloud Computing, Networking, Python, Splunk, PowerBI, and Tableau
 - 🌱 I’m currently learning RHCSA, Python
 - 💞️ I’m looking to collaborate on anything 
-- 📫 you can reach me at twitter @irv1n0
+- 📫 you can reach me on twitter @irv1n0
 
 <!---
 ocean-vinz/ocean-vinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
