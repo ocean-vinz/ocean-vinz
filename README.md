@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ocean-vinz
-- 👀 I’m interested in Linux, System Administrator, Cloud Computing, Networking, Python, Splunk, PowerBI, and Tableau
-- 🌱 I’m currently learning RHCE, Python
+- 👀 I’m interested in Linux, System Administrator, Cloud Computing, Networking, Python, Splunk, PowerBI, and DevOps
+- 🌱 I’m currently learning Kubernetes, Jenkins, and Python
 - 💞️ I’m looking to collaborate on anything 
 - 📫 you can reach me on twitter @v_nixxx
 
